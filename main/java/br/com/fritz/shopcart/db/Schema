@@ -1,0 +1,9 @@
+CREATE TABLE item (
+    id INTEGER PRIMARY KEY,
+    desc TEXT NOT NULL,
+    lined INTEGER NOT NULL
+);
+
+CREATE TABLE ok (
+    yes INTEGER
+);

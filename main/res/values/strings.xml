@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ShopCart</string>
+    <string name="visualize_list">Visualizar Listas \n de Compras</string>
+    <string name="create_list">Criar Nova Lista\n de Compras</string>
+    <string name="question">O que deseja fazer?</string>
+    <string name="compliment">Olá, Maria</string>
+</resources>
